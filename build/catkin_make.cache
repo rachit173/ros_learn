@@ -1,0 +1,2 @@
+chapter_3_codes/diff_wheeled_robot_control:chapter_3_codes/diff_wheeled_robot_gazebo:chapter_3_codes/mastering_ros_robot_description_pkg:chapter_3_codes/seven_dof_arm_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/darthvaddr/Desktop/abhiyaan/mastering_ros/devel -DCMAKE_INSTALL_PREFIX=/home/darthvaddr/Desktop/abhiyaan/mastering_ros/install -G Unix Makefiles
